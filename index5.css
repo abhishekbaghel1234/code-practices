@@ -159,38 +159,6 @@ body{
 
 }
 
-
-/* .card:nth-child(1){
-    transform: rotateY(0deg) translateZ(200px);
-}
-
-.card:nth-child(2){
-    transform: rotateY(60deg) translateZ(200px);
-}
-
-.card:nth-child(3){
-    transform: rotateY(120deg) translateZ(200px);
-}
-
-.card:nth-child(4){
-    transform: rotateY(180deg) translateZ(200px);
-}
-.card:nth-child(5){
-    transform: rotateY(240deg) translateZ(200px);
-}
-.card:nth-child(6){
-    transform: rotateY(360deg) translateZ(200px);
-}
-
-@keyframes spin {
-    from{
-        transform: rotateY(0deg);
-    }
-    to{
-        transform: rotateY(360deg);
-    }
-} */
-
 .id{
     margin: 35px;
 }
